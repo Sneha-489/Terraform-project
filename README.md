@@ -1,2 +1,2 @@
 # Terraform-project
-Terraform-project
+News-app-joi-project
